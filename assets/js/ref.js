@@ -41,7 +41,7 @@ let StarWarGithub = () => {
 }
 let myResume = () =>{
   window.open(
-    'https://drive.google.com/file/d/1kT86DCxa7lJlZw1DyTUNIXqX2HrOb4kl/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ow50dpmiVZnZsfaO0le8-8K9dsaHFiWO/view?usp=sharing',
     '_blank'
   );
 }
